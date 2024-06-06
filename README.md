@@ -8,4 +8,7 @@
     
 - My [presentation](https://github.com/irenedovichi/Master-s-degree/blob/main/Slides_IQC.pdf) for the ***Introduction to Quantum Computing*** course (a.y. 2022/23):
   - Quantum Recommendation Systems.
+ 
+- [Group presentation](https://github.com/irenedovichi/Master-s-degree/blob/main/CHL.pdf) for the ***Computational Health Laboratory*** course (a.y. 2023/24):
+  - AlphaFold for the Study of Rare Genetic Diseases.
 
